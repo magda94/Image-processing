@@ -1,0 +1,26 @@
+function [ i ] = ipreduce( i, k )
+%IPREDUCE Reduces the intensity levels of an image to 2^k
+%   	The output intensity can be any power of 2 between
+%       2 (k = 1) and 256 (k = 8).
+
+img = im2double(i);        % convert image to double
+nr  = size(img,1);          % number of rows
+nc  = size(img,2);          % number of columns
+
+levels   = 2 ^ k;
+interval = 1 / levels;       % delta in [0,1] to form 2^k levels
+
+['interval size is ', num2str(interval)]
+for r = 1:1:nr
+   
+    for c = 1:1:nc
+       
+        q = floor(img(r,c) / interval);     % pixel is at the qth quantile
+        i(r,c) = q * (255 / levels);        % re-map quantiles to 0-255
+        
+    end
+    
+end
+
+end
+
