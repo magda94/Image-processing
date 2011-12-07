@@ -13,8 +13,11 @@ interval = 1 / levels;       % delta in [0,1] to form 2^k levels
 for r = 1:1:nr
     for c = 1:1:nc
        
-        q = floor(img(r,c) / interval); % pixel (r,c) is at the qth level
-        i(r,c) = q * (255 / levels);    % re-map to 0-255
+        % pixel (r,c) is at the qth level
+        q = min(floor(img(r,c) / interval), levels - 1);
+        
+        % map q from [0,levels-1] to 0-255
+        i(r,c) = q * (256 / levels);           
         
     end
 end
