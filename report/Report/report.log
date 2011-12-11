@@ -1,0 +1,340 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2011.12.11)  11 DEC 2011 14:39
+entering extended mode
+**D:/Documenten/Informatica/Courses/Image*Processing/report/Doc/report.tex
+("D:/Documenten/Informatica/Courses/Image Processing/report/Doc/report.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/03/13 v5.3 Page Geometry
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2010/01/28 v2.1 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+("C:\Program Files\MiKTeX 2.8\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+\Gread@gobject=\count90
+))
+(C:\Users\mattijs\AppData\Roaming\MiKTeX\2.8\tex\latex\listings\listings.sty
+\lst@mode=\count91
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count92
+\lst@currlwidth=\dimen111
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen112
+\lst@width=\dimen113
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen114
+
+(C:\Users\mattijs\AppData\Roaming\MiKTeX\2.8\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box27
+)
+(C:\Users\mattijs\AppData\Roaming\MiKTeX\2.8\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(C:\Users\mattijs\AppData\Roaming\MiKTeX\2.8\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\mattijs\AppData\Roaming\MiKTeX\2.8\tex\latex\caption\caption.sty
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+(C:\Users\mattijs\AppData\Roaming\MiKTeX\2.8\tex\latex\caption\caption3.sty
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@indent=\dimen120
+\caption@parindent=\dimen121
+\caption@hangindent=\dimen122
+)
+\c@ContinuedFloat=\count99
+Package caption Info: listings package is loaded.
+)
+\c@KVtest=\count100
+\sf@farskip=\skip43
+\sf@captopadj=\dimen123
+\sf@capskip=\skip44
+\sf@nearskip=\skip45
+\c@subfigure=\count101
+\c@subfigure@save=\count102
+\c@lofdepth=\count103
+\c@subtable=\count104
+\c@subtable@save=\count105
+\c@lotdepth=\count106
+\sf@top=\skip46
+\sf@bottom=\skip47
+)
+(C:\Users\mattijs\AppData\Roaming\MiKTeX\2.8\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(C:\Users\mattijs\AppData\Roaming\MiKTeX\2.8\tex\latex\bold-extra\bold-extra.st
+y
+Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
+)
+\c@exerciseCount=\count107
+ ("D:\Documenten\Informatica\Courses\Image Processing\report\Doc\report.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: a4paper
+* switch(es): 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen124
+\scratchbox=\box28
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen125
+\MPnumerator=\count112
+\everyMPtoPDFconversion=\toks18
+)
+\c@lstlisting=\count113
+Package caption Info: Begin \AtBeginDocument code.
+Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
+LaTeX Info: Redefining \subref on input line 51.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 52.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 52.
+ ("C:\Program Files\MiKTeX 2.8\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+("D:\Documenten\Informatica\Courses\Image Processing\ipreduce.m"
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
+(Font)              Font shape `OT1/cmtt/b/n' tried instead on input line 1.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 68.
+
+<../11_skull.png, id=1, 405.76593pt x 405.01312pt>
+File: ../11_skull.png Graphic file (type png)
+ <use ../11_skull.png>
+<../11_skull_k7.png, id=2, 405.76593pt x 405.01312pt>
+File: ../11_skull_k7.png Graphic file (type png)
+ <use ../11_skull_k7.png>
+<../11_skull_k6.png, id=3, 405.76593pt x 405.01312pt>
+File: ../11_skull_k6.png Graphic file (type png)
+ <use ../11_skull_k6.png>
+<../11_skull_k5.png, id=4, 405.76593pt x 405.01312pt>
+File: ../11_skull_k5.png Graphic file (type png)
+ <use ../11_skull_k5.png>
+<../11_skull_k4.png, id=5, 405.76593pt x 405.01312pt>
+File: ../11_skull_k4.png Graphic file (type png)
+ <use ../11_skull_k4.png>
+<../11_skull_k3.png, id=6, 405.76593pt x 405.01312pt>
+File: ../11_skull_k3.png Graphic file (type png)
+ <use ../11_skull_k3.png>
+<../11_skull_k2.png, id=7, 405.76593pt x 405.01312pt>
+File: ../11_skull_k2.png Graphic file (type png)
+ <use ../11_skull_k2.png>
+<../11_skull_k1.png, id=8, 405.76593pt x 405.01312pt>
+File: ../11_skull_k1.png Graphic file (type png)
+ <use ../11_skull_k1.png>
+[1
+
+{C:/Users/mattijs/AppData/Local/MiKTeX/2.8/pdftex/config/pdftex.map}]
+("D:\Documenten\Informatica\Courses\Image Processing\ipresizebl.m" [2 <D:/Docum
+enten/Informatica/Courses/Image Processing/report/11_skull.png (PNG copy)> <D:/
+Documenten/Informatica/Courses/Image Processing/report/11_skull_k7.png (PNG cop
+y)> <D:/Documenten/Informatica/Courses/Image Processing/report/11_skull_k6.png 
+(PNG copy)> <D:/Documenten/Informatica/Courses/Image Processing/report/11_skull
+_k5.png (PNG copy)> <D:/Documenten/Informatica/Courses/Image Processing/report/
+11_skull_k4.png (PNG copy)> <D:/Documenten/Informatica/Courses/Image Processing
+/report/11_skull_k3.png (PNG copy)> <D:/Documenten/Informatica/Courses/Image Pr
+ocessing/report/11_skull_k2.png (PNG copy)> <D:/Documenten/Informatica/Courses/
+Image Processing/report/11_skull_k1.png (PNG copy)>])
+<../12_original.png, id=24, 477.28313pt x 527.72156pt>
+File: ../12_original.png Graphic file (type png)
+
+<use ../12_original.png> <../12_shrunk.png, id=25, 293.59688pt x 287.57437pt>
+File: ../12_shrunk.png Graphic file (type png)
+
+<use ../12_shrunk.png> <../12_restored.png, id=26, 477.28313pt x 529.22719pt>
+File: ../12_restored.png Graphic file (type png)
+
+<use ../12_restored.png> [3 <D:/Documenten/Informatica/Courses/Image Processing
+/report/12_original.png (PNG copy)> <D:/Documenten/Informatica/Courses/Image Pr
+ocessing/report/12_shrunk.png (PNG copy)> <D:/Documenten/Informatica/Courses/Im
+age Processing/report/12_restored.png (PNG copy)>]
+("D:\Documenten\Informatica\Courses\Image Processing\iphistogram.m")
+("D:\Documenten\Informatica\Courses\Image Processing\iphisteq.m" [4])
+<../13_spine.png, id=33, 498.36188pt x 554.82281pt>
+File: ../13_spine.png Graphic file (type png)
+ <use ../13_spine.png>
+<../13_spine_eq1x.png, id=34, 498.36188pt x 554.82281pt>
+File: ../13_spine_eq1x.png Graphic file (type png)
+
+<use ../13_spine_eq1x.png>
+<../13_spine_eq2x.png, id=35, 498.36188pt x 554.82281pt>
+File: ../13_spine_eq2x.png Graphic file (type png)
+
+<use ../13_spine_eq2x.png>
+<../13_hist_spine.png, id=36, 422.32782pt x 316.18124pt>
+File: ../13_hist_spine.png Graphic file (type png)
+
+<use ../13_hist_spine.png>
+<../13_transformation.png, id=37, 422.32782pt x 316.18124pt>
+File: ../13_transformation.png Graphic file (type png)
+
+<use ../13_transformation.png>
+<../13_hist_eq.png, id=38, 422.32782pt x 316.18124pt>
+File: ../13_hist_eq.png Graphic file (type png)
+ <use ../13_hist_eq.png>
+[5 <D:/Documenten/Informatica/Courses/Image Processing/report/13_spine.png (PNG
+ copy)> <D:/Documenten/Informatica/Courses/Image Processing/report/13_spine_eq1
+x.png (PNG copy)> <D:/Documenten/Informatica/Courses/Image Processing/report/13
+_spine_eq2x.png (PNG copy)> <D:/Documenten/Informatica/Courses/Image Processing
+/report/13_hist_spine.png (PNG copy)> <D:/Documenten/Informatica/Courses/Image 
+Processing/report/13_transformation.png (PNG copy)> <D:/Documenten/Informatica/
+Courses/Image Processing/report/13_hist_eq.png (PNG copy)>]
+("D:\Documenten\Informatica\Courses\Image Processing\report\Doc\report.aux") ) 
+Here is how much of TeX's memory you used:
+ 3957 strings out of 495285
+ 61040 string characters out of 3180387
+ 264372 words of memory out of 3000000
+ 7106 multiletter control sequences out of 15000+200000
+ 9787 words of font info for 40 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 44i,10n,42p,737b,1524s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 
+<C:\Users\mattijs\AppData\Local\MiKTeX\2.8\fonts\pk\ljfour\public\cm\dpi540\cmt
+tb10.pk><C:/Program Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmitt10.pfb
+><C:/Program Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
+ram Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
+/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.
+8/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKTeX 2.8/fonts/
+type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/
+public/amsfonts/cm/cmtt9.pfb>
+Output written on report.pdf (5 pages, 1383783 bytes).
+PDF statistics:
+ 77 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
